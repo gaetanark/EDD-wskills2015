@@ -1,5 +1,5 @@
 # EDD-wskills2015
-## A list of ressources
+## Une liste de ressources
 
 
 ### Accessibilité
