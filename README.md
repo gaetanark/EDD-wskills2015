@@ -22,3 +22,7 @@
 
 * Micro clearfix, à connaitre !! http://nicolasgallagher.com/micro-clearfix-hack/
 
+### Organisation CSS et nommage
+
+* https://en.bem.info/method/definitions/
+
