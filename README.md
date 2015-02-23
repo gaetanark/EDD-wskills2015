@@ -30,4 +30,4 @@
 
 * Découvrir et pratiquer PHP, quelques ressources en FR: http://edu.williamdurand.fr/
 * PHP, la bonne méthode : http://eilgin.github.io/php-the-right-way/
-
+* Idem en plus court : https://www.airpair.com/php/posts/best-practices-for-modern-php-development
