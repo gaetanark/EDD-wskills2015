@@ -29,4 +29,5 @@
 ### À propos de PHP
 
 * Découvrir et pratiquer PHP, quelques ressources en FR: http://edu.williamdurand.fr/
+* PHP, la bonne méthode : http://eilgin.github.io/php-the-right-way/
 
