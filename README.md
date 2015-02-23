@@ -11,3 +11,8 @@
 ### Responsive Design
 
 * Sur les concepts de base du RWD : http://adamkaplan.me/grid/
+
+
+HTML5
+
+* à propos de sémantique : http://html5doctor.com/
