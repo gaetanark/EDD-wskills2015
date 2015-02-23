@@ -25,4 +25,8 @@
 ### Organisation CSS et nommage
 
 * https://en.bem.info/method/definitions/
+ 
+### À propos de PHP
+
+* Découvrir et pratiquer PHP, quelques ressources en FR: http://edu.williamdurand.fr/
 
