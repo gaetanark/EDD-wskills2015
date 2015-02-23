@@ -13,6 +13,12 @@
 * Sur les concepts de base du RWD : http://adamkaplan.me/grid/
 
 
-HTML5
+### HTML5
 
 * à propos de sémantique : http://html5doctor.com/
+
+
+### CSS
+
+* Micro clearfix, à connaitre !! http://nicolasgallagher.com/micro-clearfix-hack/
+
