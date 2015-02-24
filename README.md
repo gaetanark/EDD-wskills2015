@@ -30,6 +30,10 @@
 
 * https://en.bem.info/method/definitions/
  
+### SVG
+
+* https://www.youtube.com/watch?v=hI9roqOKKO8
+
 ### À propos de PHP
 
 * Découvrir et pratiquer PHP, quelques ressources en FR: http://edu.williamdurand.fr/
