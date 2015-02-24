@@ -18,6 +18,10 @@
 * à propos de sémantique : http://html5doctor.com/
 
 
+### __Flowcharts__
+
+* Le concept vu à la française : http://fr.wikipedia.org/wiki/Organigramme_de_programmation
+
 ### CSS
 
 * Micro clearfix, à connaitre !! http://nicolasgallagher.com/micro-clearfix-hack/
