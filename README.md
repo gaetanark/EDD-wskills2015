@@ -35,3 +35,9 @@
 * Découvrir et pratiquer PHP, quelques ressources en FR: http://edu.williamdurand.fr/
 * PHP, la bonne méthode : http://eilgin.github.io/php-the-right-way/
 * Idem en plus court : https://www.airpair.com/php/posts/best-practices-for-modern-php-development
+
+### Javascript
+
+* Help, j’ai pas jQuery : http://youmightnotneedjquery.com/
+* A lire, la référence : http://eloquentjavascript.net/
+* Javascript the good parts : http://shop.oreilly.com/product/9780596517748.do
