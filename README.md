@@ -29,6 +29,7 @@
 ### Organisation CSS et nommage
 
 * https://en.bem.info/method/definitions/
+* Les sprites SVG : http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/
  
 ### SVG
 
